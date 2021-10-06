@@ -54,7 +54,7 @@ const (
 	DefaultTickCountSanityCheck = 1 << 10 //1024
 
 	// DefaultMinimumTickHorizontalSpacing is the minimum distance between horizontal ticks.
-	DefaultMinimumTickHorizontalSpacing = 20
+	DefaultMinimumTickHorizontalSpacing = 0
 	// DefaultMinimumTickVerticalSpacing is the minimum distance between vertical ticks.
 	DefaultMinimumTickVerticalSpacing = 20
 
